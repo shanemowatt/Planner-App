@@ -40,8 +40,8 @@
     // For current hour
     var currentHour = dayjs().hour();
 
-    // Loop for times 9 AM to 23 PM 
-    for (var hour = 9; hour <= 23; hour++) {
+    // Loop for times 9 AM to 5 PM 
+    for (var hour = 9; hour <= 17; hour++) {
       var timeBlock = $("<div>").addClass("row time-block");
 
       // Elements for hour, description, and save button

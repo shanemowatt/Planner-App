@@ -18,3 +18,5 @@ This Work Day Scheduler is a web application that helps you organise and plan yo
 - Day.js
 
 ## Link to project
+
+https://shanemowatt.github.io/Planner-App/
